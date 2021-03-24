@@ -6,7 +6,7 @@ Hello,
 
 OPEN FOR OPPORTUNITIES AS A DEVELOPER
 
-To this day, those are the technologies I know. Will update it as times goes by:
+To this day, those are the technologies I know. Will update it as time goes by:
 
 - Python 🐍
 - Django ⛓️
