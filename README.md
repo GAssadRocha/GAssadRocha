@@ -4,8 +4,6 @@ Hello,
 - I have a background in 🎓Mechanical and 🎓Electronics Engineering, but I love to code. 
 - Coding is fun, challeging and useful all at the same time. Everyday I learn something new and become more in love. This profile is being used to save my projects and to show people my work.
 
-OPEN FOR OPPORTUNITIES AS A DEVELOPER
-
 To this day, those are the technologies I know. Will update it as time goes by:
 
 - Python 🐍
@@ -16,8 +14,6 @@ To this day, those are the technologies I know. Will update it as time goes by:
 - C++
 - Arduino
 
-Next in my mind: 
-- React ⚛️
 
 💞️ I’m looking to collaborate on anything. Any new opportunity is a chance to learn something new and meet new people.
 
